@@ -1,7 +1,9 @@
 /*
- * Author: andip71, 26.02.2013
+ * Author: andip71, 21.08.2013
+ * 
+ * Modifications: Yank555.lu 20.08.2013
  *
- * Version 1.6.0
+ * Version 1.6.3
  *
  * This software is licensed under the terms of the GNU General Public
  * License version 2, as published by the Free Software Foundation, and
@@ -155,8 +157,4 @@ unsigned int Boeffla_sound_hook_wm8994_write(unsigned int reg, unsigned int valu
 
 // General switches
 #define ON 	1
-<<<<<<< HEAD
 #define OFF 	0
-=======
-#define OFF 	0
->>>>>>> fb2af94... Boeffla-Sound Engine 1.6.0 by Andip71
